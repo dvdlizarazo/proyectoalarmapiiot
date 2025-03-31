@@ -87,6 +87,7 @@ El dashboard estará disponible en `http://127.0.0.1:8000`
 ---
 ## 📷 **Imágenes del Proyecto**
 ![Dashboard](public/registro_fotografico/dashboard.jpeg)
+para mas imagenes en: https://drive.google.com/drive/folders/1ZpJDoUFyIUvW23BJDcA4Tr3azeyQVHcP?usp=sharing
 
 ---
 ## 🏆 **Beneficios del Proyecto**
