@@ -121,7 +121,7 @@ python3 main.py
 ## 📷 **Imágenes del Proyecto**  
 ![Dashboard](public/registro_fotografico/dashboard.jpeg)  
 Para más imágenes: [Google Drive](https://drive.google.com/drive/folders/1ZpJDoUFyIUvW23BJDcA4Tr3azeyQVHcP?usp=sharing)  
-
+Documentacion: [Google Drive](https://drive.google.com/drive/folders/1CJ1JnpJjnEnpXc-lqqS0rLxSOYPhSFzP?usp=sharing)  
 ---  
 
 ## 🏆 **Beneficios del Proyecto**  
