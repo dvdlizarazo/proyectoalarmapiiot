@@ -31,4 +31,8 @@ class EntradaSalidaController extends Controller
             'data' => $entradaSalida
         ], 201);
     }
+
+
+
+
 }

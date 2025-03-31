@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Models\MotionSensorStatus;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,8 +32,7 @@ Route::middleware(['auth','user-role:admin'])->group(function()
 {
     Route::get("/admin/home",[App\Http\Controllers\HomeController::class, 'adminHome'])->name("admin.home");
 
-
-
+    
     Route::get('/sensor-status', function () {
         $latestSensor = MotionSensorStatus::latest('id')->first();
         
@@ -48,6 +48,11 @@ Route::middleware(['auth','user-role:admin'])->group(function()
             'detected_at' => null,
         ]);
     });
+
+
+    Route::resource('/admin/users', UserController::class, ['as' => 'admin']);
+
+    Route::patch('/admin/users/{user}/toggle-active', [App\Http\Controllers\UserController::class, 'toggleActive'])->name('admin.users.toggle-active');
 
 
 });
