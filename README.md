@@ -1,7 +1,3 @@
-Aquí tienes la versión mejorada del README, incluyendo la mención de la carpeta `proyecto_python` y su importancia para el funcionamiento del sistema en la Raspberry Pi:  
-
----
-
 # 📡 Proyecto de Monitoreo y Control con Raspberry Pi, Sensor de Movimiento y Sirena  
 
 ## 📌 Introducción  
