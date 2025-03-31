@@ -137,8 +137,8 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---  
 
-## 👨‍💻 **Autor**  
-**Tu Nombre**  
+## 👨‍💻 **Autores**  
+**Juan David Lizarazo y Darly Rey**  
 📧 Contacto: [dvdlizarazo456@gmail.com](mailto:dvdlizarazo456@gmail.com)  
 🐙 GitHub: [github.com/dvdlizarazo](https://github.com/dvdlizarazo)  
 
